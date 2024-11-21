@@ -14,7 +14,7 @@ This project analyzes the buyer and seller segmentation of the renewable energy 
 The global shift towards renewable energy has created new opportunities to connect buyers and sellers of innovative energy solutions. 
 This project aims to analyze user data to effectively categorize and target potential users of the platform, including both businesses and individual consumers interested in products such as solar panels, inverters, and wind turbines.
 By segmenting users based on factors like location, age, and business type, this analysis will identify key customer groups and their specific needs. 
-The ultimate goal is to define key customer segments, create detailed buyer and seller personas, such as "frequent buyers of solar panels,inverter, wind turbines by age and region" or "businesses specializing in high-capacity batteries.The global shift towards renewable energy has created new opportunities to connect buyers and sellers of innovative energy solutions.These personas will help support personalized marketing strategies and drive platform growth.
+The ultimate goal is to define key customer segments, create detailed buyer and seller personas, such as "frequent buyers of solar panels, inverter, wind turbines by age and region" or "businesses specializing in high-capacity batteries". The global shift towards renewable energy has created new opportunities to connect buyers and sellers of innovative energy solutions.These personas will help support personalized marketing strategies and drive platform growth.
  
 
 ## Dataset
@@ -51,7 +51,7 @@ User personas are fictional representations of the key target users of the renew
 ## Team
 Meet the amazing team behind the **Renergy Hub Buyers and Sellers Segmentation Project**
 
--**Blessing Ugochi Godwin**: [GitHub Profile](https://github.com/Blessinggodwin12) 
+- **Blessing Ugochi Godwin**: [GitHub Profile](https://github.com/Blessinggodwin12) 
 <img src="https://github.com/Blessinggodwin12/Renewable-Energy-Buyer-Seller-Segmentation/blob/master/Renergy%20Hub%20Project/Images/Blessing%20Godwin.jpg" width="150" height="150" alt="Blessing Ugochi Godwin">
 
 - **Justus E. Ajaegbu**: [GitHub Profile](https://github.com/Justus3031)
