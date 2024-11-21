@@ -1,4 +1,4 @@
-# Renewable Energy Market Dynamics
+# Renewable Energy Buyer and Seller Segmentation 
 
 This project analyzes the buyer and seller segmentation of the renewable energy market, providing insights through data analysis and visualizations.
 
