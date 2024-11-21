@@ -11,10 +11,14 @@ This project analyzes the buyer and seller segmentation of the renewable energy 
 - [Team](#team)
 
 ## Description
-The global shift towards renewable energy has created new opportunities to connect buyers and sellers of innovative energy solutions. 
+The global shift towards renewable energy has created new opportunities to connect buyers and sellers of innovative energy solutions.
+
 This project aims to analyze user data to effectively categorize and target potential users of the platform, including both businesses and individual consumers interested in products such as solar panels, inverters, and wind turbines.
-By segmenting users based on factors like location, age, and business type, this analysis will identify key customer groups and their specific needs. 
-The ultimate goal is to define key customer segments, create detailed buyer and seller personas, such as "frequent buyers of solar panels, inverter, wind turbines by age and region" or "businesses specializing in high-capacity batteries". The global shift towards renewable energy has created new opportunities to connect buyers and sellers of innovative energy solutions.These personas will help support personalized marketing strategies and drive platform growth.
+By segmenting users based on factors like location, age, and business type, this analysis will identify key customer groups and their specific needs.
+
+The ultimate goal is to define key customer segments, create detailed buyer and seller personas, such as "frequent buyers of solar panels, inverter, wind turbines by age and region" or "businesses specializing in high-capacity batteries". 
+
+The global shift towards renewable energy has created new opportunities to connect buyers and sellers of innovative energy solutions.These personas will help support personalized marketing strategies and drive platform growth.
  
 
 ## Dataset
