@@ -18,7 +18,7 @@ By segmenting users based on factors like location, age, and business type, this
 
 The ultimate goal is to define key customer segments, create detailed buyer and seller personas, such as "frequent buyers of solar panels, inverter, wind turbines by age and region" or "businesses specializing in high-capacity batteries". 
 
-The global shift towards renewable energy has created new opportunities to connect buyers and sellers of innovative energy solutions.These personas will help support personalized marketing strategies and drive platform growth.
+These personas will help support personalized marketing strategies and drive platform growth.
  
 
 ## Dataset
